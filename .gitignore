@@ -1,0 +1,30 @@
+/.gradle/
+/build/
+/out/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# JAR / WAR / EAR
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.tmp
