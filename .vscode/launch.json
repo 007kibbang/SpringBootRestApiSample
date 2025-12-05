@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RestApiSampleApplication<RestApiSample>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.RestApi.example.RestApiSample.RestApiSampleApplication",
+            "projectName": "RestApiSample",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
